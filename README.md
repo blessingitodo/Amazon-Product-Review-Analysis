@@ -45,9 +45,9 @@ Ensure the following Python libraries are installed:
 - `requirements.txt`: List of required Python libraries.
 
 ## Dataset
-Thanks to McAuley Lab for datasets. Datasets used where the All_beauty, and Magazine_Subscription datasets from the lists of datasets posted.
+Thanks to McAuley Lab for datasets. Datasets used were the All_beauty, and Magazine_Subscription datasets from the lists of datasets posted.
 **Source**: [https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-20](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)
-
+**Drive for mount drive**: https://drive.google.com/drive/folders/10K7eSB7m_TAtVBx1L8UhtdoXPoadf7v4
 
 ## Results
 Key insights and visualizations from the notebook include:
@@ -56,7 +56,7 @@ Key insights and visualizations from the notebook include:
 - Sentiment polarity (if applicable)
 
 ## Future Analysis
-Given this is an ungoing project, I plan to exand my analysis into the following: 
+Given this is an ungoing project, I plan to expand my analysis into the following: 
 - **Visualizations**: Creating plots to enhance understanding of the dataset.
 - **Sentiment Analysis (Optional)**: Applying natural language processing (NLP) techniques to determine sentiment polarity.
 
