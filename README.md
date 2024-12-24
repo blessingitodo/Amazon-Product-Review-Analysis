@@ -1,7 +1,7 @@
 # Analyzing Amazon Reviews with Python
 
 ## Overview
-This project focuses on analyzing text reviews using Python. It involves preprocessing data, conducting exploratory data analysis (EDA), visualizing patterns, and potentially applying machine learning techniques to extract insights. The project leverages popular Python libraries like Pandas, Matplotlib, and others for data analysis and visualization.
+This project focuses on analyzing text reviews using Python. It involves preprocessing data, conducting exploratory data analysis (EDA), and visualizing patterns. The project leverages popular Python libraries like Pandas, Numpy, and others for data analysis and visualization.
 
 ## Features
 - **Data Preprocessing**: Cleaning and preparing the dataset for analysis.
